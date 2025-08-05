@@ -1,7 +1,7 @@
 #include <WiFiNINA.h>  // Including WiFiNINA library to enable WiFi functionality
 #include "ThingSpeak.h" // Including ThingSpeak library to send data to the ThingSpeak IoT platform
 
-char ssid[] = "saksham the great";  // WiFi network name (SSID)
+char ssid[] = "saksham the great";  // WiFi network name
 char pass[] = "44saksham22";  // WiFi password
 WiFiClient client;  // This will create a WiFi client object to connect to ThingSpeak
 
